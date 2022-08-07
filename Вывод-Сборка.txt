@@ -1,0 +1,4 @@
+﻿1>------ Сборка начата: проект: LabControl, Конфигурация: Debug Any CPU ------
+1>C:\Users\gript\source\repos\LabControl11\LabControl\Editor.cs(18,26,18,30): warning CS0649: Полю "Editor.labs" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null.
+1>  LabControl -> C:\Users\gript\source\repos\LabControl11\LabControl\bin\Debug\LabControl.exe
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
